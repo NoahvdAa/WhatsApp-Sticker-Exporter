@@ -10,7 +10,7 @@ Array.from(document.querySelectorAll(stickerSelector)).forEach(sticker => {
 	if (urls.indexOf(sticker.src) !== -1) return duplicates++;
 	uniques++;
 	download(filenamePrefix + "-" + uniques, sticker.src);
-	console.log("Now downloading sticker #" + i + ": " + sticker.src);
+	console.log("Now downloading sticker #" + uniques + ": " + sticker.src);
 	urls.push(sticker.src);
 });
 
