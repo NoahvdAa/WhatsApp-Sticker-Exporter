@@ -18,7 +18,7 @@ Be sure to read the *recommendations before running this script* above.
 
 4. Scroll all the way to the top to make sure all stickers are loaded.
 
-5. Copy the contents of [wase.js](https://github.com/NoahvdAa/WhatsApp-Sticker-Exporter/blob/master/wase.js) to your clipboard.
+5. Copy the contents of [wase.js](https://raw.githubusercontent.com/NoahvdAa/WhatsApp-Sticker-Exporter/master/wase.js) to your clipboard.
 
 6. Open the developer tools of your browser, go to the console, paste the contents you copied into the console and press enter.
 
