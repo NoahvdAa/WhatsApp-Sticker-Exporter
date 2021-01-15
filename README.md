@@ -20,6 +20,10 @@ Be sure to read the *recommendations before running this script* above.
 
 5. Copy the contents of [wase.js](https://raw.githubusercontent.com/NoahvdAa/WhatsApp-Sticker-Exporter/master/wase.js) to your clipboard.
 
-6. Open the developer tools of your browser, go to the console, paste the contents you copied into the console and press enter.
+6. Open the developer tools of your browser, go to the console, paste the contents you copied into the console and press enter. After a while, logs will appear similar to this:
 
-Your stickers should now download as **.webp** files. This may take a while and the tab may appear frozen.
+![Logs](images/logs.png)
+
+Your stickers should now download as **.webp** files. This may take a while and the tab may appear frozen. When the process is finished, you can add all your images into a sticker maker of your choice, for example, the signal sticker maker.
+
+![Exported Files](images/exported_files.png)
