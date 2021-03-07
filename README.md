@@ -5,6 +5,7 @@ Moving to a different messenger? You can use this script to download your (favou
 ### Recommendations before running this script.
 
 - Change your download location to a special folder before running the script, so your downloads folder doesn't get filled with images. Instructions for: [Chrome](https://www.howtogeek.com/231002/how-to-change-the-chrome-download-folder-location/) [Firefox](https://www.howtogeek.com/260271/how-to-change-the-firefox-download-folder-location/)
+- Some browsers, like Firefox, prompt you by default asking you if you want to save or open the download. I recommend you change this so that it automatically saves the files, so your browser does not open a lot of pop-ups. In Firefox you can do this by going to Settings, Applications, WebP image, Save File.
 
 ### How to use
 
