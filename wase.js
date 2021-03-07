@@ -1,4 +1,5 @@
-var stickerSelector = "._1mTER._3h2XH>._5auXc"; // This is the image object of a sticker in chat. You may need to change this.
+// The selector of the image object for the sticker. This changes every now and then, so you'll probably have to change this.
+var stickerSelector = "._1guNH";
 var filenamePrefix = new Date().getTime();
 
 var urls = [];
